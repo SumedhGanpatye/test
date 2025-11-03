@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Coffee Shop Website",
+    "desc": "A responsive coffee shop website built using HTML, CSS, and JavaScript. It features a menu, location details, and contact information.",
+    "image": "coffeeshop",
+    "category": "Development",
+    "links": {
+      "view": "https://sumedhganpatye.github.io/IWP-Assign1/",
+      "code": "https://github.com/SumedhGanpatye/IWP-Assign1"
+    }
+  },
+  {
+    "name": "Emotion Detector",
+    "desc": "Facial Emotion Recognition system built with a Convolutional Neural Network (CNN) using Python and Keras.",
+    "image": "emotion",
+    "category": "Deep-Learning",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Emotion-Detector",
+      "code": "https://colab.research.google.com/github/SumedhGanpatye/Emotion-Detector/blob/main/Efficent_Model.ipynb"
+    }
+  },
+  {
+    "name": "Face Recognition",
+    "desc": "Demonstrates the implementation of a face recognition system using Siamese networks. The system is designed to identify and verify individuals based on their facial features.",
+    "image": "face",
+    "category": "Deep-Learning",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Face-Recognition",
+      "code": "https://github.com/SumedhGanpatye/Face-Recognition"
+    }
+  },
+  {
+    "name": "VNIT Survey Form",
+    "desc": "A survey form created for VNIT students to gather feedback on various aspects of campus life, academics, and facilities.",
+    "image": "report",
+    "category": "Development",
+    "links": {
+      "view": "https://sumedhganpatye.github.io/",
+      "code": "https://github.com/SumedhGanpatye/SumedhGanpatye.github.io"
+    }
+  },
+  {
+    "name": "Simon Game",
+    "desc": "A Classic Simon Game, where players follow a sequence of colors that increases in complexity as the game progresses",
+    "image": "simon",
+    "category": "Game",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Simon-Game",
+      "code": "https://github.com/SumedhGanpatye/Simon-Game"
+    }
+  },
+  {
+    "name": "Virtual Heap Management",
+    "desc": "A simple heap memory manager implemented in C. It simulates a memory allocation system where memory blocks can be allocated, freed, and managed efficiently",
+    "image": "heap",
+    "category": "DSA",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Virtual-Heap-Management",
+      "code": "https://github.com/SumedhGanpatye/Virtual-Heap-Management"
+    }
+  },
+  {
+    "name": "Symbol Table",
+    "desc": "This project is an implementation of a simple symbol table using a hash table and scope management in C. ",
+    "image": "symb",
+    "category": "DSA",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Symbol-Table",
+      "code": "https://github.com/SumedhGanpatye/Symbol-Table"
+    }
+  },
+  {
+    "name": "AudioBook Management System",
+    "desc": "Audiobook Library System designed to manage users and audiobooks. Management of audiobooks, listening progress, library management & user preferences.",
+    "image": "ab",
+    "category": "DSA",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/AudioBook_Management",
+      "code": "https://github.com/SumedhGanpatye/AudioBook_Management"
+    }
+  },
+  {
+    "name": "Parser",
+    "desc": "A simple parser that reads a source code file and generates an Abstract Syntax Tree (AST) representation of the code structure.",
+    "image": "parser",
+    "category": "DSA",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Parser",
+      "code": "https://github.com/SumedhGanpatye/Parser"
+    }
+  },
+  {
+    "name": "Sequence-2-Seqeuence Model",
+    "desc": "A Seq2Seq model implementation for tasks like machine translation or text summarization using TensorFlow and Keras.",
+    "image": "seq2seq",
+    "category": "Deep-Learning",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/Seq2Seq",
+      "code": "https://github.com/SumedhGanpatye/Seq2Seq"
+    }
+  },
+  {
+    "name": "IvLabs Website",
+    "desc": "IVLabs is a student-run organization that focuses on practical learning and innovation in technology. The website showcases their projects, events, and initiatives.",
+    "image": "ivlabs",
+    "category": "Development",
+    "links": {
+      "view": "https://github.com/SumedhGanpatye/ivlabs-website",
+      "code": "https://github.com/SumedhGanpatye/ivlabs-website"
+    }
+  }
+]
